@@ -78,6 +78,10 @@ IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,ipleak
+DOMAIN-KEYWORD,browserleaks
+DOMAIN-KEYWORD,ipcheck
+DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN,vsmarketplacebadge.apphb.com
