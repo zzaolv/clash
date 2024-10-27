@@ -5,7 +5,6 @@ DOMAIN,play-edge.itunes.apple.com
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
-PROCESS-NAME,TV
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,generativelanguage.googleapis.com
@@ -628,7 +627,6 @@ DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,signalr.net
-DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
@@ -686,7 +684,6 @@ DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,what-fan.net
-DOMAIN-SUFFIX,windows
 DOMAIN-SUFFIX,windows-int.net
 DOMAIN-SUFFIX,windows-ppe.net
 DOMAIN-SUFFIX,windows.com
@@ -742,9 +739,6 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
-DOMAIN-SUFFIX,www.usememos.com
 DOMAIN-SUFFIX,api.telegram.org
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,docker
