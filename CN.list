@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,maimemo
+DOMAIN-SUFFIX,dns.pub
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
 # 内容：JD
 # 数量：8条
 DOMAIN-SUFFIX,360buy.com
@@ -1263,6 +1266,8 @@ DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,suike.cn
 DOMAIN-KEYWORD,qiyi
 IP-CIDR,101.224.0.0/13,no-resolve
+IP-CIDR,120.53.53.53/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,103.44.56.0/22,no-resolve
 IP-CIDR,103.5.34.153/32,no-resolve
 IP-CIDR,104.109.129.153/32,no-resolve
