@@ -11,6 +11,13 @@ DOMAIN-KEYWORD,maimemo
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,dns.360.cn
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,120.196.165.24/32,no-resolve
+IP-CIDR,211.136.192.6/32,no-resolve
+IP-CIDR,120.53.53.53/32,no-resolve
+IP-CIDR,1.12.12.12/32,no-resolve
+
 # 内容：JD
 # 数量：8条
 DOMAIN-SUFFIX,360buy.com
