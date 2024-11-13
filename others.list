@@ -3,7 +3,7 @@ DOMAIN,dns.google
 DOMAIN,cloudflare-dns.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speed.cloudflare.com
-
+DOMAIN-SUFFIX,downloads.openwrt.org
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
