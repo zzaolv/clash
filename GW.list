@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openwrt
 DOMAIN-KEYWORD,istore
-
+DOMAIN-SUFFIX,aistudio.google.com
 
 # NAME:维基
 # TOTAL: 12
