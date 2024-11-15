@@ -1,4 +1,8 @@
 DOMAIN,api.ipify.org
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,openwrt.org
 DOMAIN,dns.google
 DOMAIN,cloudflare-dns.com
 DOMAIN-SUFFIX,fast.com
