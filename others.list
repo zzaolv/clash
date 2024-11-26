@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,deb.nodesource.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,speed.cloudflare.com
 
 # NAME: Google
