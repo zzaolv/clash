@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,openwrt.org
 DOMAIN-KEYWORD,z-library.sk
 DOMAIN,dns.google
+DOMAIN-SUFFIX,vhost.vn
 DOMAIN,cloudflare-dns.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,deb.nodesource.com
