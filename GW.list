@@ -1,5 +1,7 @@
 # others
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,pythonhosted.org
 # NAME: Cloudflarecn
 # TOTAL: 14
