@@ -59,6 +59,5 @@ def main():
             with open(group['output'], 'w') as outfile:
                 outfile.write("\n".join(combined_content))
             print(f"Processed and saved to {group['output']}")
-
 if __name__ == "__main__":
     main()
